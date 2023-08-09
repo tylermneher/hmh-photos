@@ -1,3 +1,5 @@
+*.zip
+
 .venv/
 
 .DS_Store
