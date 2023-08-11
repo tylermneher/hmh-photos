@@ -1,3 +1,5 @@
+photos_original/
+
 *.zip
 
 .venv/
